@@ -65,14 +65,7 @@ const Home = () => {
           </div>
         </div>
         <div className="w-full hidden md:block relative">
-          <Lottie animationData={hero} loop={false} className="" />
-          <Lottie
-            ref={uniqueRef}
-            animationData={nadel}
-            autoPlay={false}
-            loop={false}
-            className="w-28 absolute top-[50%] right-[50%]"
-          />
+          <Lottie animationData={hero} loop={false} />
         </div>
       </div>
       <Offer />

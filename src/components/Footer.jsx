@@ -17,9 +17,9 @@ export const Footer = () => {
         </div>
         <div className="h-[130px] flex flex-col md:m-auto">
           <h3 className=" font-bold mb-1">Kontakt</h3>
-          <p>Robert P. Zitselsberger</p>
-          <p>Münchener Straße 15+16</p>
-          <p>86529, München</p>
+          <p>Ilhem Boughanmi</p>
+          <p>Westring 9</p>
+          <p>86565, Gachenbach</p>
           <p>Deutschland</p>
         </div>
         <div className="h-[130px] flex flex-col md:m-auto">
@@ -29,11 +29,11 @@ export const Footer = () => {
           </p>
           <p className="flex gap-2">
             <img src={email} alt="email" className="w-5 h-5" />{" "}
-            roboodrive@gmail.com
+            rilly-drive@outlook.de
           </p>
           <p className="flex gap-2">
             <img src={link} alt="website-link" className="w-5 h-5" />{" "}
-            www.robooDrive.com
+            www.rilly-drive.com
           </p>
         </div>
       </div>
